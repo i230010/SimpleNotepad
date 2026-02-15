@@ -1,0 +1,7 @@
+[project]
+name = "simplenotepad"
+version = "0.1.0"
+description = "A simple note pad in python"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
